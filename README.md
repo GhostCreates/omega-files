@@ -1,2 +1,3 @@
-# omega-files
+OMEGA FILES
+
 Omega Files Host
